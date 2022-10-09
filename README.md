@@ -13,7 +13,7 @@ No repositório, encontram-se os seguintes scripts:
 
 * **Analise_Descritiva.R** - Contém o código para realizar uma análise descritiva das variáveis da base de dados;
 
-* **Analise_PCA.R** - Contém o código para aplicar uma análise de componentes principais sobre a base de dados;
+* **Analise_PCA.R** - Contém o código para aplicar uma análise de componentes principais sobre os dados;
 
 * **Kmeans.R** - Contém o código do algoritmo de clustering K-means;
 
