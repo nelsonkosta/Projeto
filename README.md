@@ -1,5 +1,7 @@
 # Análise Multivariada de Dados sobre tipologia de produtos numa empresa
+
 ##Dissertação de Mestrado - Matemática e Computação
+
 ###Nelson Filipe Sá Costa - PG44587
 
 Os códigos dispostos neste repositório fazem parte de um estudo no âmbito da dissertação de mestrado. 
